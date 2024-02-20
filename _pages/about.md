@@ -1,26 +1,60 @@
 ---
 layout: about
-title: about
+title: MobiLLMs 2024
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: MobiLLMs
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image:
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: # >
+    # <p>555 your office number</p>
+    # <p>123 your address street</p>
+    # <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+# Call for Participation
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+We are pleased to introduce the first "Workshop on Mobile Computing with Large Language Models
+(MobiLLMs)", a new forum for discussing the integration of Large Language Models (LLMs) in the
+context of mobile computing. This workshop aims to provide a collaborative environment for
+researchers, industry professionals, and enthusiasts to share insights, discuss challenges, and
+explore the potential of LLMs in mobile computing.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+MobiLLMs takes a broad view on LLMs and embraces a wide spectrum of language models such as
+Vision-Language Models (VLMs). It is intended as a platform for thoughtful exchange and in-depth
+discussion on key aspects of mobile computing and LLMs. Participants will engage in panel
+discussions that provide insights into current issues, paper presentations that highlight the latest
+research, and demos that demonstrate the practical applications of LLMs in the mobile computing
+landscape. Interactive sessions will allow participants to engage with the latest developments, and
+networking opportunities are designed to foster connections and collaborations.
+
+We invite submissions of original research that addresses the interface between Large Language
+Models and mobile computing. Areas of interest include, but are not limited to:
+
+* Effective Deployment of LLMs on Mobile Devices
+* Energy and Resource Management for Mobile LLMs
+* Real-Time Language Processing in Mobile Environments
+* Enhancing Mobile User Experience through LLMs
+* Privacy Considerations in Mobile LLM Implementations
+* Context-Aware LLM Applications for Mobile Devices
+* Challenges of LLMs in Mobile Settings
+* LLMs for Mobile Accessibility and Assistive Technologies
+* Stability and Reliability of LLMs on Mobile Platforms
+* Automated Development of Mobile Applications via LLMs
+* Mobile Sensing Data Analysis through LLMs
+
+Submissions can include technical papers, work-in-progress papers, position papers, or proposals for
+short talks, demos, and panel discussions.
+
+# Important Dates
+
+* Submission Deadline: April 12, 2024
+* Notification of Acceptance: April 22, 2024
+* Camera Ready Deadline: May 1, 2024
