@@ -2,7 +2,7 @@
 layout: about
 title: MobiLLMs 2024
 permalink: /
-subtitle: MobiLLMs
+subtitle:
 
 profile:
   align: right
