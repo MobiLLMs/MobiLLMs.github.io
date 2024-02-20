@@ -21,7 +21,7 @@ social: false # includes social icons at the bottom of the page
 
 ![](assets/img/background.webp)
 
-# Call for Participation
+## Call for Participation
 
 We are pleased to introduce the first "Workshop on Mobile Computing with Large Language Models
 (MobiLLMs)", a new forum for discussing the integration of Large Language Models (LLMs) in the
@@ -55,8 +55,14 @@ Models and mobile computing. Areas of interest include, but are not limited to:
 Submissions can include technical papers, work-in-progress papers, position papers, or proposals for
 short talks, demos, and panel discussions.
 
-# Important Dates
+## Important Dates
 
 * Submission Deadline: April 12, 2024
 * Notification of Acceptance: April 22, 2024
 * Camera Ready Deadline: May 1, 2024
+
+## Organizers
+
+* [Steve Ko](https://steveyko.github.io), Simon Fraser University, Canada
+* [Sangeun Oh](https://sites.google.com/view/sangeunoh), Ajou University, South Korea
+* [Insik Shin](http://cps.kaist.ac.kr/~ishin/), KAIST, South Korea
