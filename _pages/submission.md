@@ -16,6 +16,13 @@ Computing with Large Language Models (MobiLLMs).
 * Notification of Acceptance: April 19, 2024
 * Camera Ready Deadline: May 1, 2024
 
+## Submission Types
+
+MobiLLMs solicits two types of submissions.
+
+* 5-page technical papers or position papers
+* 2-page extended abstracts for demos and work-in-progress reports
+
 ## Submission Instructions
 
 * Submissions must be in PDF. We will not accept papers in any other formats, including Postscript
