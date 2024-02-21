@@ -2,7 +2,7 @@
 layout: about
 title: Call for Participation
 permalink: /
-subtitle: Workshop on Mobile Computing with Large Language Models, Co-located with <a href="https://www.sigmobile.org/mobisys/2024/">MobiSys 2024</a>
+subtitle: Workshop on Mobile Computing with Large Language Models, Co-located with <a href="https://www.sigmobile.org/mobisys/2024/">MobiSys 2024</a>, June 7, 2024, Tokyo, Japan
 
 profile:
   align: right
@@ -61,22 +61,17 @@ instructions](/submission/).
 
 ## Co-Organized with EdgeFM 2024
 
-To create synergy and foster collaboration, MobiLLMs 2024 is co-organized with the 1st International
-Workshop on Edge and Mobile Foundation Models (EdgeFM 2024). The two workshops will *jointly* review
-submitted papers and decide on which workshop is the best fit for each paper. The workshops will
-also collaborate on the organization of the programs, such as invited talks and the development of
-the schedule for each workshop. This is to maximize the opportunity for participants to attend and
-engage in both workshops and to foster discussions on the intersection of mobile computing, edge
-computing, large language models, and other foundation models.
+To create synergy and foster collaboration, MobiLLMs 2024 is co-organized with [the 1st
+International Workshop on Edge and Mobile Foundation Models (EdgeFM
+2024)](https://edgefm.github.io). The two workshops will *jointly* review submitted papers and
+decide on which workshop is the best fit for each paper. The workshops will also collaborate on the
+organization of the programs, such as invited talks and the development of the schedule for each
+workshop. This is to maximize the opportunity for participants to attend and engage in both
+workshops and to foster discussions on the intersection of mobile computing, edge computing, large
+language models, and other foundation models.
 
 ## Important Dates
 
 * Submission Deadline: April 12, 2024
 * Notification of Acceptance: April 19, 2024
 * Camera Ready Deadline: May 1, 2024
-
-## Organizers
-
-* [Steve Ko](https://steveyko.github.io), Simon Fraser University, Canada
-* [Sangeun Oh](https://sites.google.com/view/sangeunoh), Ajou University, South Korea
-* [Insik Shin](http://cps.kaist.ac.kr/~ishin/), KAIST, South Korea

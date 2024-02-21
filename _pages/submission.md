@@ -60,19 +60,19 @@ reports, the title should start with `WiP:`.
 
 ## Co-Organized with EdgeFM 2024
 
-To create synergy and foster collaboration, MobiLLMs 2024 is co-organized with the 1st International
-Workshop on Edge and Mobile Foundation Models (EdgeFM 2024). The two workshops will *jointly* review
-submitted papers and decide on which workshop is the best fit for each paper. The workshops will
-also collaborate on the organization of the programs, such as invited talks and the development of
-the schedule for each workshop. This is to maximize the opportunity for participants to attend and
-engage in both workshops and to foster discussions on the intersection of mobile computing, edge
-computing, large language models, and other foundation models.
+To create synergy and foster collaboration, MobiLLMs 2024 is co-organized with [the 1st
+International Workshop on Edge and Mobile Foundation Models (EdgeFM
+2024)](https://edgefm.github.io). The two workshops will *jointly* review submitted papers and
+decide on which workshop is the best fit for each paper. The workshops will also collaborate on the
+organization of the programs, such as invited talks and the development of the schedule for each
+workshop. This is to maximize the opportunity for participants to attend and engage in both
+workshops and to foster discussions on the intersection of mobile computing, edge computing, large
+language models, and other foundation models.
 
 ## Submission Site
 
-Since MobiLLMs 2024 is co-organized with the 1st International Workshop on Edge and Mobile
-Foundation Models (EdgeFM 2024), both workshops use the same submission site. Please [submit your
-paper here](https://edgefm24-mobillms24.hotcrp.com/).
+Since MobiLLMs 2024 is co-organized with EdgeFM 2024, both workshops use the same submission site.
+Please [submit your paper here](https://edgefm24-mobillms24.hotcrp.com/).
 
 ## Mandatory Registration
 
