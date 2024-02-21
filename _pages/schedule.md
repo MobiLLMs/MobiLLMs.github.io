@@ -2,8 +2,8 @@
 layout: page
 title: Schedule
 permalink: /schedule/
-description: Schedule
-nav: true
+description:
+nav: false
 nav_order: 3
 ---
 
