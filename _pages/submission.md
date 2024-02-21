@@ -22,7 +22,7 @@ MobiLLMs solicits two types of submissions.
 
 #### 5-page technical or position papers
 
-We solicit submissions that present the results of original research best described as a short,
+We solicit submissions that present the results of original research best described in a short,
 5-page paper. We also welcome position papers that describe early-stage work, preliminary results,
 and novel ideas that have the potential to stimulate interesting discussions at the workshop.
 Submissions should be no longer than 5 pages, including all text, figures, and tables, but excluding
