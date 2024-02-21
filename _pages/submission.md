@@ -20,15 +20,33 @@ Computing with Large Language Models (MobiLLMs).
 
 MobiLLMs solicits two types of submissions.
 
-* 5-page technical papers or position papers
-* 2-page extended abstracts for demos and work-in-progress reports
+#### 5-page technical or position papers
+
+We solicit submissions that present the results of original research best described as a short,
+5-page paper. We also welcome position papers that describe early-stage work, preliminary results,
+and novel ideas that have the potential to stimulate interesting discussions at the workshop.
+Submissions should be no longer than 5 pages, including all text, figures, and tables, but excluding
+references. Bibliographic references can be as many pages as necessary.
+
+#### 2-page extended abstracts for demos and work-in-progress reports
+
+We also solicit submissions of 2-page extended abstracts for demos and work-in-progress reports. The
+extended abstracts should describe the content and goals of the demo or work-in-progress report. The
+abstracts should be no longer than 2 pages, including all text, figures, and tables, but excluding
+references. Bibliographic references can be as many pages as necessary.
+
+For demos, the title of the extended abstract should start with `Demo:`. For work-in-progress
+reports, the title should start with `WiP:`.
 
 ## Submission Instructions
 
 * Submissions must be in PDF. We will not accept papers in any other formats, including Postscript
   and MS-Word.
-* Submissions *must include* author names and affiliations. We use *single-blind* reviewing, so
-  authors should include their names and affiliations on the first page of the submission.
+* For demos, the title of the extended abstract should start with `Demo:`. For work-in-progress
+  reports, the title should start with `WiP:`. There are no such requirements for technical or
+  position papers.
+* Submissions ***must include*** author names and affiliations. We use ***single-blind*** reviewing,
+  so authors should include their names and affiliations on the first page of the submission.
 * We use the same formatting guidelines as MobiSys.
     * Font size no smaller than 10 points.
     * Use single-spaced and numbered pages, including figures, tables, any appendices, and any other
