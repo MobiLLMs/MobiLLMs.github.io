@@ -3,8 +3,9 @@ layout: page
 title: Schedule
 permalink: /schedule/
 description:
-nav: false
-nav_order: 3
+nav: true
+nav_order: 4
 ---
 
-TBA
+We are running a combined program with EdgeLLM 2024. Check out [the
+schedule](https://edgefm.github.io/Schedule.html).
